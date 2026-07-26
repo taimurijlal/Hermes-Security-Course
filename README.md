@@ -8,6 +8,7 @@ Hermes's defining feature is its closed learning loop: it captures how it solves
 
 ### Modules
 
+- [**Giving Hermes a Personality and Understanding Its Memory Files**](modules/hermes-personality-and-memory.md) — How to give Hermes a durable identity with `SOUL.md`, tell it who you are with `USER.md`, and understand the difference between `SOUL.md`, `MEMORY.md`, `USER.md`, and `AGENTS.md`, including their character limits and when changes take effect.
 - [**Hermes Skills and the Self-Improvement Loop**](modules/hermes-skills-and-learning-loop.md) — What skills are, how the Skills Hub and trust tiers work, how the self-improvement loop (Observe → Execute → Reflect → Crystallise → Reuse) actually operates, and how to govern it with the Curator and write-approval gates.
 - [**Hermes as a Security Force Multiplier**](modules/hermes-security-force-multiplier.md) — Day-one use cases (briefings, CVE triage, vendor monitoring), acting safely through Zapier MCP, and how the learning loop turns repetitive security work into a compounding personal analyst over 90 days.
 
@@ -18,8 +19,9 @@ Hermes's defining feature is its closed learning loop: it captures how it solves
 ## Suggested Order
 
 1. Start with the [securing lab](labs/securing-hermes-step-by-step.md) to get a hardened Hermes instance running safely.
-2. Read [Hermes Skills and the Self-Improvement Loop](modules/hermes-skills-and-learning-loop.md) to understand how the agent learns and how to govern that process.
-3. Finish with [Hermes as a Security Force Multiplier](modules/hermes-security-force-multiplier.md) to put it to work on real security workflows.
+2. Read [Giving Hermes a Personality and Understanding Its Memory Files](modules/hermes-personality-and-memory.md) to give your hardened instance an identity and understand how it remembers things.
+3. Read [Hermes Skills and the Self-Improvement Loop](modules/hermes-skills-and-learning-loop.md) to understand how the agent learns and how to govern that process.
+4. Finish with [Hermes as a Security Force Multiplier](modules/hermes-security-force-multiplier.md) to put it to work on real security workflows.
 
 ## A Note on Scope
 
